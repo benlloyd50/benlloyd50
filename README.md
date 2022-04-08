@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benlloyd50
 - 👀 I’m interested in coding and keebs and other weird stuffs
-- 🌱 I’m currently learning and gonna keep learning
+- 🌱 I’m currently learning and will continue to try and keep learning
 - 💞️ I’m looking to collaborate on not much, still getting my bearings
 - 📫 How to reach me: 
      -- benji6090@gmail.com

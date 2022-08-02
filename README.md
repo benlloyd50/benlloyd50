@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @benlloyd50
-- 👀 I’m interested in coding and keebs and other weird stuffs
-- 🌱 I’m currently learning and will continue to try and keep learning
-- 💞️ I’m looking to collaborate on not much, still getting my bearings
+- 👋 Heya, I'm Ben
+- 👀 I’m interested in coding and keebs and other stuffs
+- 🌱 I’m currently learning Rust but, I venture to new stuff all the time
+- 💞️ I’m looking to collaborate on games and small-*ish* projects
 - 📫 How to reach me: 
      -- benji6090@gmail.com
 

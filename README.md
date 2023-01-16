@@ -1,4 +1,4 @@
-✨ check out my repos to see what im working on ✨
+✨ check out my pinned repos to see what im working on and my old repos to see past projects ✨
 
 💻 interested in systems programming, game programming, and any programming 💻
 

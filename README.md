@@ -6,6 +6,8 @@
 
 🎮 check out my [itch](https://benlloyd50.itch.io/) for game specific projects (some play in browser!) 🎮
 
+💭 "one of the poorest implementations of x/3" - A line of documentation in Rust 💭
+
 <!---
 benlloyd50/benlloyd50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

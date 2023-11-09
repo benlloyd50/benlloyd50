@@ -1,6 +1,6 @@
 ✨ check out my pinned repos to see what im working on and my old repos to see past projects ✨
 
-💻 interested in systems programming, game programming, and any programming 💻
+💻 interested in making cool things with code and maple syrup (i have cousins from vermont) 🍁
 
 📒 willing to collab on projects that interest me ie any of the above stuff 📒
 

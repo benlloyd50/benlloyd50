@@ -1,12 +1,16 @@
-✨ check out my pinned repos to see what im working on and my old repos to see past projects ✨
+# [Check out my website](https://benlloyd50.github.io/Portfolio/)
 
-💻 interested in making cool things with code and maple syrup (mutually exclusively)(i have cousins from vermont btw) 🍁
+✨ see my pinned repos for my prouder work, many learning experiences in older repos
 
-📒 willing to collab on projects that interest me ie any of the above stuff 📒
+🎮 check out my [itch](https://benlloyd50.itch.io/) for game specific projects (play in browser!)
 
-🎮 check out my [itch](https://benlloyd50.itch.io/) for game specific projects (some play in browser!) 🎮
+💻 interested in making cool things with code and maple syrup (mutually exclusively)(i have cousins from vermont btw)
 
-💭 "one of the poorest implementations of x/3" - A line of documentation in Rust 💭
+📒 willing to collab on interesting things
+
+- email: ["benji6090", "gmail.com"].join("@")
+- [linkedin](https://www.linkedin.com/in/benjamin-lloyd-927a46180/)
+
 
 <!---
 benlloyd50/benlloyd50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

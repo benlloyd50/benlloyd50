@@ -6,7 +6,7 @@
 
 💻 interested in making cool things with code and maple syrup (mutually exclusively)(i have cousins from vermont btw)
 
-📒 willing to collab on interesting things
+📒 willing to collab on game and software things & products
 
 - email: ["benji6090", "gmail.com"].join("@")
 - [linkedin](https://www.linkedin.com/in/benjamin-lloyd-927a46180/)
